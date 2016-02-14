@@ -1,0 +1,6 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{ background-color:#333;}
+div#header{background-color:GREY; color:#fff; height:40px}
+p{font-size:8px; height:20px; margin:50px;}

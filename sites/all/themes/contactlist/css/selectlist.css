@@ -1,0 +1,35 @@
+.selectlist-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.selectlist-item {
+    background: #333 url("cross-circle.png") no-repeat scroll right center;
+    color: #000;
+    cursor: pointer;
+    float: left;
+    font-size: 10px;
+    height: 0;
+    margin: 1px;
+    overflow: hidden;
+    padding: 10px 12px;
+    width: 0;
+}
+.selectlist-item:hover{  color: #fff;
+    display: inline-block;
+    height: 20px;
+    min-width: 336px;
+    padding: 4px 3px 3px 10px;}
+.doitbaby{max-width:200px; font-size:12px;}
+
+li.selectlist-item:first-child {
+  display:none;
+}
+.ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button {
+    float: left;
+    font-family: Lato,sans-serif!important;
+    font-size: 11px!important;
+    padding: 7px 1px;
+}
+
