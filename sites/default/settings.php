@@ -217,11 +217,11 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'ochacontactlist',
-      'username' => 'drupal_e',
-      'password' => '#e4cC9E0rI',
-      'host' => 'localhost',
-      'port' => '3306',
+      'database' => '',
+      'username' => '',
+      'password' => '',
+      'host' => '',
+      'port' => '',
       'driver' => 'mysql',
       'prefix' => '',
     ),
